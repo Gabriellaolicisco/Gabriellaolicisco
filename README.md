@@ -23,11 +23,11 @@ conecte-se comigo!
 
 ## Tech Stack
 
-<p aling= "center">
+<p align= "center">
   <img src= "https://skillicons.dev/icons?i=arduino,aws,azure,css,debian,git,github,gmail,grafana,java,html,linux,nginx,p5js,powershell,vscode,windows">
 
    </p>
-   <p aling= "center">
+   <p align= "center">
      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
      <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff">
@@ -44,4 +44,28 @@ conecte-se comigo!
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Fundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | Aws Academy Cloud Foundations |
+
+---
+
+## Conquistas🏆
+- Curso técnico de Redes
+- Curso preparatório AI 900
+
+
+## Projetos
+
+- Casa inteligente voltada para deficiente visual - IOT
+- Monitoramento On-premises com uso de Zabbix & Grafana
+- Infraestrutura em nuvem ultilizando Aws e Azure
+- Cabeamento estruturado baseado em empresas reais
+- Infraestrutura de Redes no Packet Tracer
+
+<p align="center">
+ <img src= "https://github-readme-streak-stats.herokuapp.com?user=Gabriellaolicisco&theme=cobalt&hide_border=true&short_numbers=true&stroke=EB5454">
+</p> 
+
+## Conecte-se comigo!📬
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/gabriella-de-oliveira-gomes-a9087628a"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff"></a>
    
