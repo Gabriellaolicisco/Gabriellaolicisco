@@ -37,4 +37,11 @@ conecte-se comigo!
 
   </p>
 
+
+## Certificações
+
+|certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Fundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=gray) | Aws Academy Cloud Foundations |
    
